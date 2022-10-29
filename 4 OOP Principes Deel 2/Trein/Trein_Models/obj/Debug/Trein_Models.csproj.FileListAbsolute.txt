@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Trein\Trein_Models\bin\Debug\Trein_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Trein\Trein_Models\bin\Debug\Trein_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Trein\Trein_Models\obj\Debug\Trein_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Trein\Trein_Models\obj\Debug\Trein_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Trein\Trein_Models\obj\Debug\Trein_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Trein\Trein_Models\obj\Debug\Trein_Models.pdb

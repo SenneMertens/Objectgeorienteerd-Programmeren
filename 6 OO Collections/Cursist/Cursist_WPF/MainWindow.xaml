@@ -1,0 +1,36 @@
+﻿<Window x:Class="Cursist_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cursist_WPF"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListBox x:Name="lbResultaat" SelectionChanged="LbResultaat_SelectionChanged" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"></ListBox>
+
+        <Label x:Name="lblVoornaam" Content="Voornaam" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="1"></Label>
+        <Label x:Name="lblFamilienaam" Content="Familienaam" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="2"></Label>
+
+        <TextBox x:Name="txtVoornaam" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="1"></TextBox>
+        <TextBox x:Name="txtFamilienaam" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="2"></TextBox>
+
+        <Button x:Name="btnToevoegen" Content="Toevoegen" Click="BtnToevoegen_Click" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="3"></Button>
+        <Button x:Name="btnVerwijderen" Content="Verwijderen" Click="BtnVerwijderen_Click" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="3"></Button>
+        <Button x:Name="btnWijzigen" Content="Wijzigen" Click="BtnWijzigen_Click" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="4"></Button>
+        <Button x:Name="btnSluiten" Content="Sluiten" Click="BtnSluiten_Click" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="4"></Button>
+    </Grid>
+</Window>

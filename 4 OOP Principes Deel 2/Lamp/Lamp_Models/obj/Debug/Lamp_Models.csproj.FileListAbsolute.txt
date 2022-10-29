@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Lamp\Lamp_Models\bin\Debug\Lamp_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Lamp\Lamp_Models\bin\Debug\Lamp_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Lamp\Lamp_Models\obj\Debug\Lamp_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Lamp\Lamp_Models\obj\Debug\Lamp_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Lamp\Lamp_Models\obj\Debug\Lamp_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Lamp\Lamp_Models\obj\Debug\Lamp_Models.pdb

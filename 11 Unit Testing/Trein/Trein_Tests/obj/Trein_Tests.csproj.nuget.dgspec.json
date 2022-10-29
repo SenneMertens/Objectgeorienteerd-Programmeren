@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Tests\\Trein_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Models\\Trein_Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Models\\Trein_Models.csproj",
+        "projectName": "Trein_Models",
+        "projectPath": "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Models\\Trein_Models.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Tests\\Trein_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Tests\\Trein_Tests.csproj",
+        "projectName": "Trein_Tests",
+        "projectPath": "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Tests\\Trein_Tests.csproj",
+        "packagesPath": "C:\\Users\\Senne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Senne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Models\\Trein_Models.csproj": {
+                "projectPath": "C:\\Users\\Senne\\Documents\\Visual Studio 2022\\Projects\\Objectgeoriënteerd Programmeren\\11 Unit Testing\\Trein\\Trein_Models\\Trein_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

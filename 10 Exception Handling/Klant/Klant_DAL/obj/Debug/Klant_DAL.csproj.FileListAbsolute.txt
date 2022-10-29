@@ -1,0 +1,9 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\bin\Debug\Klant_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\bin\Debug\Klant_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\bin\Debug\Klant_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\bin\Debug\Klant_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\obj\Debug\Klant_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\obj\Debug\Klant_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\obj\Debug\Klant_DAL.csproj.CopyComplete
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\obj\Debug\Klant_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\10 Exception Handling\Klant\Klant_DAL\obj\Debug\Klant_DAL.pdb

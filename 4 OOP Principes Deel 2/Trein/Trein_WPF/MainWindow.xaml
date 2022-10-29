@@ -1,0 +1,44 @@
+﻿<Window x:Class="Trein_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trein_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblOpstappen" Content="Opstappen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="0"></Label>
+        <Label x:Name="lblAfstappen" Content="Afstappen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="1"></Label>
+        <Label x:Name="lblVersnellen" Content="Versnellen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="2"></Label>
+        <Label x:Name="lblVertragen" Content="Vertragen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="3"></Label>
+
+        <TextBox x:Name="txtOpstappen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="0"></TextBox>
+        <TextBox x:Name="txtAfstappen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="1"></TextBox>
+        <TextBox x:Name="txtVersnellen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="2"></TextBox>
+        <TextBox x:Name="txtVertragen" VerticalContentAlignment="Center" FontSize="15" Margin="10" Grid.Column="1" Grid.Row="3"></TextBox>
+
+        <Button x:Name="btnOpstappen" Content="Opstappen" Click="BtnOpstappen_Click" FontSize="15" Margin="10" Grid.Column="2" Grid.Row="0"></Button>
+        <Button x:Name="btnAfstappen" Content="Afstappen" Click="BtnAfstappen_Click" FontSize="15" Margin="10" Grid.Column="2" Grid.Row="1"></Button>
+        <Button x:Name="btnVersnellen" Content="Versnellen" Click="BtnVersnellen_Click" FontSize="15" Margin="10" Grid.Column="2" Grid.Row="2"></Button>
+        <Button x:Name="btnVertragen" Content="Vertragen" Click="BtnVertragen_Click" FontSize="15" Margin="10" Grid.Column="2" Grid.Row="3"></Button>
+        <Button x:Name="btnStoppen" Content="Stoppen" Click="BtnStoppen_Click" FontSize="15" Margin="10" Grid.Column="2" Grid.Row="4"></Button>
+        <Button x:Name="btnSluiten" Content="Deuren Sluiten" Click="BtnSluiten_Click" FontSize="15" Margin="10" Grid.Column="2" Grid.Row="5"></Button>
+
+        <Label x:Name="lblResultaat" FontSize="15" Margin="10" Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="3"></Label>
+    </Grid>
+</Window>

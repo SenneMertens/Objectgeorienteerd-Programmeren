@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Teller\Teller_Models\bin\Debug\Teller_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Teller\Teller_Models\bin\Debug\Teller_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Teller\Teller_Models\obj\Debug\Teller_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Teller\Teller_Models\obj\Debug\Teller_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Teller\Teller_Models\obj\Debug\Teller_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Teller\Teller_Models\obj\Debug\Teller_Models.pdb

@@ -1,0 +1,16 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\bin\Debug\Cirkel_WPF.exe.config
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\bin\Debug\Cirkel_WPF.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\bin\Debug\Cirkel_WPF.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\App.g.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF_MarkupCompile.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF_MarkupCompile.lref
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\MainWindow.baml
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.g.resources
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.Properties.Resources.resources
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.csproj.GenerateResource.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\1 WPF Start\Cirkel\Cirkel_WPF\obj\Debug\Cirkel_WPF.pdb

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Rekening\Rekening_DAL\bin\Debug\Rekening_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Rekening\Rekening_DAL\bin\Debug\Rekening_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\bin\Debug\Rekening_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\bin\Debug\Rekening_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\bin\Debug\Rekening_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\bin\Debug\Rekening_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.csproj.CopyComplete
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\8 Overerving Deel 2\Rekening\Rekening_DAL\obj\Debug\Rekening_DAL.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Dobbelsteen_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dobbelsteen_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Height="360">
+        <Button x:Name="btnGooien" Content="Gooien" Click="BtnGooien_Click" FontSize="35" Width="auto" Height="100" Margin="10"></Button>
+        <Label x:Name="lblGetal1" FontSize="35" VerticalContentAlignment="Center" Width="auto" Height="100" Margin="10" Background="DarkBlue" Foreground="White"></Label>
+        <Label x:Name="lblGetal2" FontSize="35" VerticalContentAlignment="Center" Width="auto" Height="100" Margin="10" Background="Red" Foreground="White"></Label>
+    </StackPanel>
+</Window>

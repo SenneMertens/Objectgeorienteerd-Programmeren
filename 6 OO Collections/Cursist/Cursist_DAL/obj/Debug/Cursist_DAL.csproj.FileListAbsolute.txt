@@ -1,0 +1,9 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\bin\Debug\Cursist_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\bin\Debug\Cursist_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\bin\Debug\Cursist_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\bin\Debug\Cursist_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\obj\Debug\Cursist_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\obj\Debug\Cursist_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\obj\Debug\Cursist_DAL.csproj.CopyComplete
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\obj\Debug\Cursist_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Cursist\Cursist_DAL\obj\Debug\Cursist_DAL.pdb

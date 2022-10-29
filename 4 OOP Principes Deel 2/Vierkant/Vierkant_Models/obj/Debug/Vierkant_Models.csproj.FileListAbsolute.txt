@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Vierkant\Vierkant_Models\bin\Debug\Vierkant_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Vierkant\Vierkant_Models\bin\Debug\Vierkant_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Vierkant\Vierkant_Models\obj\Debug\Vierkant_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Vierkant\Vierkant_Models\obj\Debug\Vierkant_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Vierkant\Vierkant_Models\obj\Debug\Vierkant_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\4 OOP Principes Deel 2\Vierkant\Vierkant_Models\obj\Debug\Vierkant_Models.pdb

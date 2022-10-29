@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_DAL\bin\Debug\Ministers_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_DAL\bin\Debug\Ministers_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_DAL\obj\Debug\Ministers_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_DAL\obj\Debug\Ministers_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_DAL\obj\Debug\Ministers_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_DAL\obj\Debug\Ministers_DAL.pdb

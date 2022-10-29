@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\TV\TV_Models\bin\Debug\TV_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\TV\TV_Models\bin\Debug\TV_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\TV\TV_Models\obj\Debug\TV_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\TV\TV_Models\obj\Debug\TV_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\TV\TV_Models\obj\Debug\TV_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\TV\TV_Models\obj\Debug\TV_Models.pdb

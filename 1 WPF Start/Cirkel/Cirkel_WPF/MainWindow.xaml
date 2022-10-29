@@ -1,0 +1,21 @@
+﻿<Window x:Class="Cirkel_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cirkel_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <Label x:Name="btnGooien" Content="Straal" FontSize="35" VerticalContentAlignment="Center" Width="100" Height="100" Margin="10" HorizontalAlignment="Left" VerticalAlignment="Top"></Label>
+            <TextBox x:Name="txtStraal" FontSize="35" Width="660" Height="100" Margin="10" HorizontalAlignment="Right" VerticalAlignment="Top" VerticalContentAlignment="Center"></TextBox>
+        </StackPanel>
+        <StackPanel>
+            <Button x:Name="btnBereken" Content="Bereken" Click="BtnBereken_Click" FontSize="35" Margin="10" Width="auto" Height="100"></Button>
+        </StackPanel>
+        <StackPanel>
+            <Label x:Name="lblResultaat" FontSize="20" Margin="10" Width="auto" Height="170"></Label>
+        </StackPanel>
+    </StackPanel>
+</Window>

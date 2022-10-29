@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV_WPF", "TV_WPF\TV_WPF.csproj", "{BA96FCB3-EDA8-40F1-8E5B-C65DB05E346B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV_Models", "TV_Models\TV_Models.csproj", "{1287B1DB-F3DA-4CA6-B309-A0E94A67EAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA96FCB3-EDA8-40F1-8E5B-C65DB05E346B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA96FCB3-EDA8-40F1-8E5B-C65DB05E346B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA96FCB3-EDA8-40F1-8E5B-C65DB05E346B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA96FCB3-EDA8-40F1-8E5B-C65DB05E346B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1287B1DB-F3DA-4CA6-B309-A0E94A67EAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1287B1DB-F3DA-4CA6-B309-A0E94A67EAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1287B1DB-F3DA-4CA6-B309-A0E94A67EAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1287B1DB-F3DA-4CA6-B309-A0E94A67EAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937020E7-30D4-400F-94BD-A1F213AD930C}
+	EndGlobalSection
+EndGlobal

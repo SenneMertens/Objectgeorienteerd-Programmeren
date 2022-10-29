@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_Models\bin\Debug\Ministers_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_Models\bin\Debug\Ministers_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_Models\obj\Debug\Ministers_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_Models\obj\Debug\Ministers_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_Models\obj\Debug\Ministers_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\5 Collections\Ministers\Ministers_Models\obj\Debug\Ministers_Models.pdb

@@ -1,0 +1,44 @@
+﻿<Window x:Class="Cilinder_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cilinder_WPF"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="650" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblX" Content="X" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="0"></Label>
+        <Label x:Name="lblY" Content="Y" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="1"></Label>
+        <Label x:Name="lblR" Content="R" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="2"></Label>
+        <Label x:Name="lblH" Content="H" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="3"></Label>
+
+        <TextBox x:Name="txtX" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="1" Grid.Row="0"></TextBox>
+        <TextBox x:Name="txtY" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="1" Grid.Row="1"></TextBox>
+        <TextBox x:Name="txtR" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="1" Grid.Row="2"></TextBox>
+        <TextBox x:Name="txtH" VerticalContentAlignment="Center" FontSize="20" Margin="10" Grid.Column="1" Grid.Row="3"></TextBox>
+
+        <Button x:Name="btnPunt" Content="Punt Berekenen" Click="BtnPunt_Click" FontSize="20" Margin="10" Grid.Column="2" Grid.Row="1"></Button>
+        <Button x:Name="btnCirkel" Content="Cirkel Berekenen" Click="BtnCirkel_Click" FontSize="20" Margin="10" Grid.Column="2" Grid.Row="2"></Button>
+        <Button x:Name="btnCilinder" Content="Cilinder Berekenen" Click="BtnCilinder_Click" FontSize="20" Margin="10" Grid.Column="2" Grid.Row="3"></Button>
+
+        <Label x:Name="lblResultaat" Content="Resultaat" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3"></Label>
+
+        <ListBox x:Name="lbResultaat" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2"></ListBox>
+        <Button x:Name="btnTonen" Content="Tonen" Click="BtnTonen_Click" FontSize="20" Margin="10" Grid.Column="2" Grid.Row="5"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Zwembad\Zwembad_Models\bin\Debug\Zwembad_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Zwembad\Zwembad_Models\bin\Debug\Zwembad_Models.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Zwembad\Zwembad_Models\obj\Debug\Zwembad_Models.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Zwembad\Zwembad_Models\obj\Debug\Zwembad_Models.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Zwembad\Zwembad_Models\obj\Debug\Zwembad_Models.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\3 OOP Principes Deel 1\Zwembad\Zwembad_Models\obj\Debug\Zwembad_Models.pdb

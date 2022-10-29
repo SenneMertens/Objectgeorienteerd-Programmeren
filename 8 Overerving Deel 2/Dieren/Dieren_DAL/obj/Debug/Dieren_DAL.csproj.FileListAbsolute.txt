@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Dieren\Dieren_DAL\bin\Debug\Dieren_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Dieren\Dieren_DAL\bin\Debug\Dieren_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Dieren\Dieren_DAL\obj\Debug\Dieren_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Dieren\Dieren_DAL\obj\Debug\Dieren_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Dieren\Dieren_DAL\obj\Debug\Dieren_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\7 Overerving Deel 1\Dieren\Dieren_DAL\obj\Debug\Dieren_DAL.pdb

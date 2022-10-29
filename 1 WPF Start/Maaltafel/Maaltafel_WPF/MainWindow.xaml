@@ -1,0 +1,25 @@
+﻿<Window x:Class="Maaltafel_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maaltafel_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="btnBereken" Content="Bereken" Click="BtnBereken_Click" FontSize="25" Margin="10" Grid.Column="1" Grid.Row="0"></Button>
+
+        <TextBox x:Name="txtGetal" FontSize="25" VerticalContentAlignment="Center" Margin="10" Grid.Column="0" Grid.Row="0"></TextBox>
+
+        <Label x:Name="lblResultaat" FontSize="20" Margin="10" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2"></Label>
+    </Grid>
+</Window>

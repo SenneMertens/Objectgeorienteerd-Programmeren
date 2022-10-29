@@ -1,0 +1,6 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Winkelkar\Winkelkar_DAL\bin\Debug\Winkelkar_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Winkelkar\Winkelkar_DAL\bin\Debug\Winkelkar_DAL.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Winkelkar\Winkelkar_DAL\obj\Debug\Winkelkar_DAL.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Winkelkar\Winkelkar_DAL\obj\Debug\Winkelkar_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Winkelkar\Winkelkar_DAL\obj\Debug\Winkelkar_DAL.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Objectgeoriënteerd Programmeren\6 OO Collections\Winkelkar\Winkelkar_DAL\obj\Debug\Winkelkar_DAL.pdb
